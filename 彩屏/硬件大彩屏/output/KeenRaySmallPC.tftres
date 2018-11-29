@@ -1,0 +1,38 @@
+<Resource>
+    <pages>
+        <page name="0启动页" id="0" />
+        <page name="1主页" id="1" />
+        <page name="2检查页" id="2" />
+        <page name="3配置页-密码登录" id="3" />
+        <page name="4配置页-详情" id="4" />
+    </pages>
+    <images>
+        <image id="0" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\首页-常态.png" width="113" height="60" crop="0" effect_left="0" effect_top="0" effect_width="113" effect_height="60" size="13560" />
+        <image id="1" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\检查-常态.png" width="113" height="60" crop="0" effect_left="0" effect_top="0" effect_width="113" effect_height="60" size="13560" />
+        <image id="2" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\设置-常态.png" width="113" height="60" crop="0" effect_left="0" effect_top="0" effect_width="113" effect_height="60" size="13560" />
+        <image id="3" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\病人列表-表头1.png" width="1027" height="38" crop="0" effect_left="3" effect_top="0" effect_width="1024" effect_height="38" size="77824" />
+        <image id="4" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\状态栏底.png" width="1026" height="47" crop="0" effect_left="0" effect_top="0" effect_width="1024" effect_height="46" size="94208" />
+        <image id="5" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\电池-70%.png" width="77" height="43" crop="0" effect_left="0" effect_top="0" effect_width="77" effect_height="43" size="6622" />
+        <image id="6" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\平板温度正常.png" width="66" height="40" crop="0" effect_left="0" effect_top="0" effect_width="66" effect_height="38" size="5016" />
+        <image id="7" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\球管.png" width="62" height="34" crop="0" effect_left="0" effect_top="0" effect_width="62" effect_height="34" size="4216" />
+        <image id="8" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\禁止曝光.png" width="36" height="36" crop="0" effect_left="0" effect_top="0" effect_width="36" effect_height="36" size="2592" />
+        <image id="9" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\日志-正常-点击.png" width="49" height="39" crop="0" effect_left="0" effect_top="0" effect_width="49" effect_height="39" size="3822" />
+        <image id="10" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\磁盘.png" width="38" height="36" crop="0" effect_left="0" effect_top="0" effect_width="38" effect_height="36" size="2736" />
+        <image id="11" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\磁盘容量大于20GByte.png" width="118" height="15" crop="0" effect_left="0" effect_top="0" effect_width="118" effect_height="15" size="3540" />
+        <image id="12" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\设置-常态.png" width="113" height="60" crop="0" effect_left="0" effect_top="1" effect_width="113" effect_height="59" size="13334" />
+        <image id="13" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\人.png" width="347" height="498" crop="0" effect_left="2" effect_top="0" effect_width="345" effect_height="498" size="343620" />
+        <image id="14" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\胖子-下拉-常态.png" width="80" height="32" crop="0" effect_left="0" effect_top="0" effect_width="80" effect_height="32" size="5120" />
+        <image id="15" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\瘦子-下拉-常态.png" width="80" height="32" crop="0" effect_left="0" effect_top="0" effect_width="80" effect_height="32" size="5120" />
+        <image id="16" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\小孩-下拉-常态.png" width="80" height="32" crop="0" effect_left="0" effect_top="0" effect_width="80" effect_height="32" size="5120" />
+        <image id="17" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\中等-下拉-选择.png" width="80" height="32" crop="0" effect_left="0" effect_top="0" effect_width="80" effect_height="32" size="5120" />
+        <image id="18" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\mAs-使能.png" width="36" height="37" crop="0" effect_left="0" effect_top="0" effect_width="36" effect_height="37" size="2664" />
+        <image id="19" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\mAms-点击.png" width="36" height="36" crop="0" effect_left="0" effect_top="0" effect_width="36" effect_height="36" size="2592" />
+        <image id="20" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\大焦-点击.png" width="36" height="36" crop="0" effect_left="0" effect_top="0" effect_width="36" effect_height="36" size="2592" />
+        <image id="21" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\高压文本框.png" width="298" height="52" crop="0" effect_left="0" effect_top="0" effect_width="298" effect_height="52" size="30992" />
+        <image id="22" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\1529390253(1).png" width="240" height="204" crop="0" effect_left="0" effect_top="0" effect_width="240" effect_height="204" size="97920" />
+        <image id="23" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\关机.png" width="30" height="30" crop="0" effect_left="0" effect_top="0" effect_width="30" effect_height="30" size="1800" />
+        <image id="24" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\急停开关_副本.png" width="80" height="80" crop="0" effect_left="0" effect_top="0" effect_width="80" effect_height="80" size="12800" />
+        <image id="25" url="f:\百度云同步盘\我的学习\12、串口+大彩屏\彩屏\硬件大彩屏\Images\1529393483(1).png" width="78" height="51" crop="0" effect_left="0" effect_top="0" effect_width="78" effect_height="51" size="7956" />
+    </images>
+    <waves />
+</Resource>
